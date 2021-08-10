@@ -19,3 +19,23 @@ Initialise the project
 
 Open the project in editor and run
  `yarn start`
+
+Car Item Component
+------------------
+- [X] Render the text
+- [X] Render the background image
+- [X] Create a separate component for car item
+- [X] Use buttons
+- [X] Implement props
+
+Button Component
+----------------
+- [X] Create separate component
+- [X] Receive props
+- [X] Style The Button based on 'type' prop
+
+Render scrollable list of car items
+------------------------------------
+- [X] Use the dummy data
+- [X] Render the flat list
+- [X] Set up snap to view
