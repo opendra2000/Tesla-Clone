@@ -39,3 +39,7 @@ Render scrollable list of car items
 - [X] Use the dummy data
 - [X] Render the flat list
 - [X] Set up snap to view
+
+
+
+![image](https://user-images.githubusercontent.com/59149614/128904840-49766028-b5de-41f3-b307-ee1f92ae968b.png)
